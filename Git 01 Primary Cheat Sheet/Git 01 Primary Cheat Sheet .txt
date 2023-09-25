@@ -12,18 +12,10 @@ git add "gitcommands ff.txt"
 
 //adding all files
 git add .
-git add -A A
+git add -A 
 
 //for local commit 
 git commit -m 'mesaage'
-
-
-//to recover data 
-git checkout "filename"
-
-
-//to recover all data 
-git checkout -f
 
 
 //link repo
