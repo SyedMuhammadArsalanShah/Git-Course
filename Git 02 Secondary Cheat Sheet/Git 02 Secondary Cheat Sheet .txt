@@ -128,3 +128,5 @@ $ pwd
 <!-- to view all files in your working dir   -->
 $ ls
 $ ls -lart
+<!-- to makedir -->
+$ mkdir "fileNameHere"
